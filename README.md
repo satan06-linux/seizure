@@ -4,9 +4,6 @@
 
 **Intelligent Seizure Detection and Neurologist Recommendation System**
 
-[![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-production--ready-brightgreen.svg)]()
 [![Streamlit](https://img.shields.io/badge/streamlit-1.31.0-FF4B4B.svg)](https://streamlit.io)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -52,7 +49,7 @@ A production-ready AI-powered web application that detects epileptic seizures us
 - ✅ Neurologist finder with specialization matching
 - ✅ AI chatbot for seizure-related queries
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 seizureguard_ai/
@@ -88,7 +85,7 @@ seizureguard_ai/
 
 ## 🎥 Demo
 
-Try the live demo: [Coming Soon - Deploy to Streamlit Cloud]
+Try the live demo: [Coming Soon - Deploying  to Streamlit Cloud]
 
 ## 🚀 Quick Start
 
@@ -133,13 +130,6 @@ Your `seizure_dataset.csv` should have:
 - One target column named: `target`, `label`, or `class`
 - Target values should be: 0 (Normal), 1 (Preictal), 2 (Seizure)
 
-Example structure:
-```csv
-feature_1,feature_2,feature_3,...,target
-0.123,0.456,0.789,...,0
-0.234,0.567,0.890,...,1
-0.345,0.678,0.901,...,2
-```
 
 ## 🎯 Usage Guide
 
@@ -319,9 +309,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{seizureguard_ai,
   title = {SeizureGuard AI: Intelligent Seizure Detection System},
-  author = {Your Name},
+  author = {satan_linux},
   year = {2024},
-  url = {https://github.com/YOUR_USERNAME/seizureguard-ai}
+  url = {https://github.com/satan_linux06/seizureguard-ai}
 }
 ```
 
